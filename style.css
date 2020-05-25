@@ -5,7 +5,15 @@
     position: relative;
 }
 #google-logo{
-    top: 50px;
+    top: 110px;
+}
+#search-bar{
+    top: 150px;
+    width: 550px;
+    height: 50px;
+    border-radius: 50px;
+    display: flex;
+    padding-left: 15px;
 }
 .nav-bar,
 .footer{
@@ -27,7 +35,7 @@
     left: 1100px;
 }
 .footer{
-    top: 350px;
+    top: 325px;
 }
 #right-footer{
     left: 850px;
