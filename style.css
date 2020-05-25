@@ -7,20 +7,30 @@
 #google-logo{
     top: 50px;
 }
-.nav-bar{
+.nav-bar,
+.footer{
     display: inline-block;
     position: relative;
     list-style-type: none;
     margin: 0;
     padding: 0;
     white-space: nowrap;
+}
+.nav-bar{
     top: 20px;
 }
-#left-nav-bar{
+#left-nav-bar,
+#left-footer{
     left: 15px;
 }
 #right-nav-bar{
     left: 1100px;
+}
+.footer{
+    top: 350px;
+}
+#right-footer{
+    left: 850px;
 }
 li{
     display: inline-block;
